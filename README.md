@@ -62,3 +62,16 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
 
 - Upload PDFs → Extract text → Chunk → Embed
 - Query from frontend built with `Streamlit` or `Gradio`
+
+
+### 🐳 6. Dockerize the Project
+
+Example `Dockerfile`:
+
+```dockerfile
+FROM python:3.10
+WORKDIR /app
+COPY . .
+RUN pip install -r requirements.txt
+CMD ["python", "demo/query.py"]
+```
