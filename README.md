@@ -32,3 +32,10 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
   - `src/retrieve.py`
   - `src/generate.py`
 - Add CLI interface for each stage (with `argparse`)
+
+### 📦 2. Add `demo/` Folder for Full Pipeline
+
+- Sample commands:
+  ```bash
+  python demo/ingest.py --input ./docs --output ./vectorstore
+  python demo/query.py --question "What is RAG?" --model llama
