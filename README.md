@@ -45,7 +45,7 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
 
 
 ### 🤖 3. Expand with Advanced RAG Features
-	-	Reranker using a cross-encoder model
-	-	Query rewriting / decomposition
-	-	Context-aware retrieval using similarity + neighbors
-	-	Multi-hop retrieval
+- Reranker using a cross-encoder model
+- Query rewriting / decomposition
+- Context-aware retrieval using similarity + neighbors
+- Multi-hop retrieval
