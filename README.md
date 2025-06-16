@@ -77,3 +77,24 @@ CMD ["python", "demo/query.py"]
 ```
 
 ---
+
+## 📁 Project Structure
+
+```
+RAG-hands-on/
+├── env-setup/
+├── data/
+├── vectorstore/
+├── src/
+│   ├── ingest.py
+│   ├── retrieve.py
+│   └── generate.py
+├── demo/
+│   ├── ingest.py
+│   └── query.py
+├── usecase-1/
+├── usecase-2/
+├── notebooks/
+├── README.md
+└── requirements.txt
+```
