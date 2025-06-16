@@ -22,3 +22,13 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
 - ✅ Visualized working flow (text + image)
 
 ---
+
+## 🧭 What to Do Next
+
+### 🔧 1. Modularize Codebase
+
+- Convert exploratory notebooks/scripts into reusable Python modules:
+  - `src/ingest.py`
+  - `src/retrieve.py`
+  - `src/generate.py`
+- Add CLI interface for each stage (with `argparse`)
