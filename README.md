@@ -111,3 +111,12 @@ python demo/query.py --question 'Explain RAG'
 ```
 
 ---
+
+## 🔮 Goals
+
+- ✅ Use Case 1: GPU-based RAG with LLaMA
+- 🔲 Use Case 2: PDF chatbot
+- 🔲 CLI interface and modularization
+- 🔲 Evaluation scripts
+- 🔲 Streamlit or Gradio app
+- 🔲 Agents and advanced retrieval
