@@ -132,3 +132,7 @@ python demo/query.py --question 'Explain RAG'
 - `transformers`
 
 ---
+
+## 🛡 License
+
+MIT License. See `LICENSE` file for details.
