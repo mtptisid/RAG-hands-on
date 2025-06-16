@@ -39,3 +39,6 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
   ```bash
   python demo/ingest.py --input ./docs --output ./vectorstore
   python demo/query.py --question "What is RAG?" --model llama
+  ```
+  
+  Include sample files under docs/ and queries/
