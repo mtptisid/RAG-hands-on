@@ -122,3 +122,11 @@ python demo/query.py --question 'Explain RAG'
 - 🔲 Agents and advanced retrieval
 
 ---
+
+## 📚 References
+
+- `LangChain`  
+- `FAISS`  
+- `ChromaDB`  
+- `llama-cpp`  
+- `transformers`
