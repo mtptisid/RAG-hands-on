@@ -49,3 +49,11 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
 - Query rewriting / decomposition
 - Context-aware retrieval using similarity + neighbors
 - Multi-hop retrieval
+
+### 📊 4. Benchmarking
+-	Create evaluation set (20–50 questions)
+-	Track:
+  - Accuracy (retrieved doc vs answer quality)
+  - Latency
+	- Model comparison: GPT-3.5 vs LLaMA vs Mistral
+- Optionally use metrics like ROUGE or BLEU
