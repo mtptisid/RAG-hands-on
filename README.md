@@ -103,9 +103,9 @@ RAG-hands-on/
 
 ## 🚀 Usage
 
-'''bash
+```bash
 pip install -r requirements.txt
 
 python demo/ingest.py --input './data'
 python demo/query.py --question 'Explain RAG'
-'''
+```
