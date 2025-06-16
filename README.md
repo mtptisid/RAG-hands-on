@@ -57,3 +57,8 @@ A practical hands-on repository for exploring Retrieval-Augmented Generation (RA
   	- Latency
 	- Model comparison: GPT-3.5 vs LLaMA vs Mistral
 - Optionally use metrics like ROUGE or BLEU
+
+### 🧪 5. Use Case 2: PDF Chatbot
+
+- Upload PDFs → Extract text → Chunk → Embed
+- Query from frontend built with `Streamlit` or `Gradio`
