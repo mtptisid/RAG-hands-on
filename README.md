@@ -123,6 +123,16 @@ python demo/query.py --question 'Explain RAG'
 
 ---
 
+## 📌 Example Pipeline (Conceptual)
+
+```
+1. Upload Docs   → Split → Embed → Save to Vector DB
+2. User Query    → Embed → Retrieve Top K chunks
+3. Final Prompt  → LLM (LLaMA/GPT) → Response
+```
+
+---
+
 ## 📚 References
 
 - `LangChain`  
